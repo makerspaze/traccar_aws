@@ -56,7 +56,7 @@ $ sudo ./traccar.run
 
 ### Install Mobile Client
   - https://www.traccar.org/client/
-  - server address 52.221.230.112
+  - server address Public IP
   - server port 5055
   - frequency 1
   - start service
