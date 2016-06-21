@@ -1,7 +1,9 @@
 # Setup Traccar in Amazon Web Services
 
->Traccar is an open source GPS tracking system for various GPS tracking devices. >System supports more than 80 different communication protocols from popular >vendors. It includes web interface to manage tracking devices online.
+>Traccar is an open source GPS tracking system for various GPS tracking devices.System supports more than 80 different communication protocols from popular vendors. It includes web interface to manage tracking devices online.
+
 - https://www.traccar.org/
+
 >Amazon Web Services, is a subsidiary of Amazon.com, which offers a suite of cloud >computing services that make up an on-demand computing platform. These services >operate from 12 geographical regions across the world.
 
   - https://aws.amazon.com/
