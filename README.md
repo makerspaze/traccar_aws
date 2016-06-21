@@ -61,5 +61,8 @@ $ sudo ./traccar.run
   - start service
 
 ### Congratulation :)
-
 Want to contribute? Great! you are heartly welcome :)
+
+Ready to help @
+  - https://plus.google.com/u/0/+leoCj
+  - https://twitter.com/leoccjj
