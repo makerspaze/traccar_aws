@@ -4,7 +4,7 @@
 
 - https://www.traccar.org/
 
->Amazon Web Services, is a subsidiary of Amazon.com, which offers a suite of cloud >computing services that make up an on-demand computing platform. These services >operate from 12 geographical regions across the world.
+>Amazon Web Services, is a subsidiary of Amazon.com, which offers a suite of cloud computing services that make up an on-demand computing platform. These services operate from 12 geographical regions across the world.
 
   - https://aws.amazon.com/
 
