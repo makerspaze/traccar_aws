@@ -47,10 +47,13 @@ $ sudo ./traccar.run
  - custom TCP rule > TCP > 8082 > Anywhere > 0.0.0.0/0
  - custom TCP rule > TCP > 5055 > Anywhere > 0.0.0.0/0
  - https://postimg.org/image/vppy2kcdj/
+
  ```sh
  $ sudo /opt/traccar/bin/traccar start
  ```
+
 ### Access Website at http:// Public IP:8082/
+
 * username: admin
 * password: admin
 
@@ -62,6 +65,7 @@ $ sudo ./traccar.run
   - start service
 
 ### Congratulation :)
+
 Want to contribute? Great! you are heartly welcome :)
 
 Ready to help @
