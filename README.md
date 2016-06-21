@@ -11,7 +11,7 @@ It is very easy to setup traccar in AWS:
   - Provide your ATM card details for authentication.
   - Done! now you can visit AWS management console
   - Under Compute click on EC2 (virtual servers in cloud)
-  - Select LAUNCH INSTANCE 
+  - Select LAUNCH INSTANCE
   - Tick Free tier only option then find Ubuntu Server 14.04 LTS (HVM) 64bit and click on SELECT
   - Click on REVIEW AND LAUNCH option.
   - LAUNCH
@@ -19,7 +19,7 @@ It is very easy to setup traccar in AWS:
   - LAUNCH INSTANCES
   - VIEW INSTANCES
   - Download PuTTY and PuTTYgen from http://www.putty.org/
-  - Run PuTTYgen 
+  - Run PuTTYgen
   - Select SSH-2 RSA
   - lOAD >allfiles>choose '.pem' file >save private key > yes > give the same name as that of '.pem' file has >save to '.ppk' file.
   - Run PuTTY
@@ -36,7 +36,7 @@ $ sudo apt-get install unzip
 $ unzip traccar-linux-64-3.1.zip
 $ chmod +x traccar.run
 $ sudo apt-get update
-$ sudo apt-get install openjdk-7-jre 
+$ sudo apt-get install openjdk-7-jre
 $ sudo ./traccar.run
 ```
  - Goto AWS management console>EC2>Instances
@@ -54,7 +54,8 @@ $ sudo ./traccar.run
 * username: admin
 * password: admin
 
-### Install Mobile Client https://www.traccar.org/client/
+### Install Mobile Client
+  - https://www.traccar.org/client/
   - server address 52.221.230.112
   - server port 5055
   - frequency 1
