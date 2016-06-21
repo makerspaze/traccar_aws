@@ -48,9 +48,9 @@ $ sudo ./traccar.run
  - custom TCP rule > TCP > 5055 > Anywhere > 0.0.0.0/0
  - https://postimg.org/image/vppy2kcdj/
 
- ```sh
- $ sudo /opt/traccar/bin/traccar start
- ```
+```sh
+$ sudo /opt/traccar/bin/traccar start
+```
 
 ### Access Website at http:// Public IP:8082/
 
