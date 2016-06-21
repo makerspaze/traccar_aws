@@ -23,13 +23,15 @@ It is very easy to setup traccar in AWS:
   - Download PuTTY and PuTTYgen from http://www.putty.org/
   - Run PuTTYgen
   - Select SSH-2 RSA
-  - lOAD >allfiles>choose '.pem' file >save private key > yes > give the same name as that of '.pem' file has >save to '.ppk' file.
+  - LOAD >all files>choose '.pem' file >save private key > yes > give the same name as that of '.pem' file has >save to '.ppk' file.
   - Run PuTTY
   - Goto AWS and copy Public DNS paste it to PuTTY HostName field
   - set port 22 and connection type to SSH
   - from PuTTY Category >connection >SSH>Auth>Browse '.ppk'>open
   - In PuTTY terminal login as: ubuntu
+
 ### Traccar Installation Steps
+
 
 ```sh
 $ sudo su
@@ -41,6 +43,7 @@ $ sudo apt-get update
 $ sudo apt-get install openjdk-7-jre
 $ sudo ./traccar.run
 ```
+
  - Goto AWS management console>EC2>Instances
  - Now you can see your instance details
  - Find >security groups > launch-wizard >Inbound > Edit > Add Rule >
