@@ -35,7 +35,7 @@ It is very easy to setup traccar in AWS:
 
 ```sh
 $ sudo su
-$ wget https://github.com/tananaev/traccar/releases/download/v3.1/traccar-linux-64-3.1.zip
+$ wget https://github.com/tananaev/traccar/releases/download/v3.5/traccar-linux-64-3.5.zip
 $ sudo apt-get install unzip
 $ unzip traccar-linux-64-3.1.zip
 $ chmod +x traccar.run
